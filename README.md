@@ -6,9 +6,10 @@ A simple PCB design project (my first one ever), in the shape of the NixOS logo 
 
 ## PCB
 
-![3D view](3D%20view.png)
-![PCB design](PCB%20design.png)
-![Wiring design](Wiring%20design.png)
+![3D view top](3D%20view2%20top.png)
+![3D view bottom](3D%20view2%20bottom.png)
+![PCB design](PCB%20design2.png)
+![Wiring design](Wiring%20design2.png)
 
 ## Features
 
