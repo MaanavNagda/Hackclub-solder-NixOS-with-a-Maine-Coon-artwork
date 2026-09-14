@@ -26,10 +26,18 @@ Just order the PCB & components, open up the EasyEDA file, and build it accordin
 
 ## BOM
 
-- Soldering Iron
+- Soldering Iron & Solder Wire
+- 1 NE555 Timer IC
 - 2 LED-0603_R
-- 2 1k resistors
-- 1 MY-2023-12-R
+- 2 470Ω resistors
+- 1 4.7k resistor
+- 1 47k resistor
+- 1 10k potentiometer (3362P-1-103LF)
+- 1 10uF capacitor
+- 1 Photoresistor-5528
+- 1 Switch-6x6x10
+- 2 MY-2032-12-R
+- 2 CR2032 Batteries
 - PCB fabrication
 
 ---
