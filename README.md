@@ -16,6 +16,9 @@ A simple PCB design project (my first one ever), in the shape of the NixOS logo 
 - Maine Coon cat design
 - LED eyes
 - NixOS logo PCB design (open source Linux distro logo)
+- 555 timer to make the eyes blink
+- Switch to control when it happens
+- Photoresistor, so it only glows at night
 
 ## How to build
 
