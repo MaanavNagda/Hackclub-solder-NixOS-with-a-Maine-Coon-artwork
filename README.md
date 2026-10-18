@@ -43,6 +43,10 @@ Just order the PCB & components, open up the EasyEDA file, and build it accordin
 | Photoresistor-5528 | U3 | SNR2-3.0 | 1 | Photoresistor-5528 | | |
 | NE555 | U4 | DIP08-KIT | 1 | | | |
 
+- Soldering Iron & Solder Wire
+- 2 CR2032 Batteries
+- PCB fabrication
+
 ---
 
 Made by @maanavnagda2197 on slack  
